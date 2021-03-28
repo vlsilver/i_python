@@ -1,0 +1,6 @@
+iter_1=(x for x in range(3))
+print(iter_1)
+#print(next(iter_1))
+#print(next(iter_1))
+#print(next(iter_1))
+print(sum(iter_1,10))
